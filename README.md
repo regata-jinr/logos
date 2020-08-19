@@ -20,7 +20,7 @@
 
 [More sizes and formats](https://github.com/regata-jinr/logos/tree/master/flnp)
 
-## Regata
+## Regata (Not approved)
 
 | type     | TITLE                                                                    | LOGO                                       |
 | -------- | ------------------------------------------------------------------------ | ------------------------------------------ |
