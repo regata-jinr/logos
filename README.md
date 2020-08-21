@@ -22,9 +22,17 @@
 
 ## Regata (Not approved)
 
-|          | LOGO + TITLE                                                             | LOGO                                       |
-| -------- | ------------------------------------------------------------------------ | ------------------------------------------ |
-| Main     | ![regata-title](regata/logo_title/regata_logo_title_0.2.png)             | ![regata](regata/logo/regata_logo_0.2.png) |
-| Inverted | ![regata-title-inv](regata/logo_title_inv/regata_logo_title_inv_0.2.png) | ![regata-inv]()                            |
+|          | LOGO + TITLE                                                             | LOGO                                                   |
+| -------- | ------------------------------------------------------------------------ | ------------------------------------------------------ |
+| Main     | ![regata-title](regata/logo_title/regata_logo_title_0.2.png)             | ![regata](regata/logo/regata_logo_0.1.png)             |
+| Inverted | ![regata-title-inv](regata/logo_title_inv/regata_logo_title_inv_0.2.png) | ![regata-inv](regata/logo_inv/regata_logo_inv_0.1.png) |
 
 [More sizes and formats](https://github.com/regata-jinr/logos/tree/master/regata)
+
+## Colors
+
+**Midnight blue**
+> RGB(10, 29, 124) | HEX(#0A1D7C) 
+
+**Imperial red**
+> RGB(226, 29, 35) | HEX(#E21D23)
